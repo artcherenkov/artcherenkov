@@ -1,5 +1,4 @@
-### Hi there 👋
-## 👨🏼‍🎓 My [portfolio](https://movies-explorer.online/) link
+## Middle frontend in Cian
 
 <!--
 **artcherenkov/artcherenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
