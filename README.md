@@ -1,1 +1,1 @@
-### js dev at [cian](https://cian.ru)
+### js dev at [cian.ru](https://cian.ru)
